@@ -1,4 +1,4 @@
-name: Workshop 0 Workflow
+name: Workshop 0 Workflow-Auto
 
 on: [workflow_dispatch]
 
